@@ -1,0 +1,250 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 Jul21 ?        00:00:25 /sbin/init
+root         2     0  0 Jul21 ?        00:00:00 [kthreadd]
+root         4     2  0 Jul21 ?        00:00:00 [kworker/0:0H]
+root         6     2  0 Jul21 ?        00:00:00 [mm_percpu_wq]
+root         7     2  0 Jul21 ?        00:00:36 [ksoftirqd/0]
+root         8     2  0 Jul21 ?        00:10:34 [rcu_preempt]
+root         9     2  0 Jul21 ?        00:00:00 [rcu_sched]
+root        10     2  0 Jul21 ?        00:00:00 [rcu_bh]
+root        11     2  0 Jul21 ?        00:00:01 [migration/0]
+root        12     2  0 Jul21 ?        00:00:06 [watchdog/0]
+root        13     2  0 Jul21 ?        00:00:00 [cpuhp/0]
+root        14     2  0 Jul21 ?        00:00:00 [cpuhp/1]
+root        15     2  0 Jul21 ?        00:00:05 [watchdog/1]
+root        16     2  0 Jul21 ?        00:00:01 [migration/1]
+root        17     2  0 Jul21 ?        00:00:03 [ksoftirqd/1]
+root        19     2  0 Jul21 ?        00:00:00 [kworker/1:0H]
+root        20     2  0 Jul21 ?        00:00:00 [cpuhp/2]
+root        21     2  0 Jul21 ?        00:00:06 [watchdog/2]
+root        22     2  0 Jul21 ?        00:00:01 [migration/2]
+root        23     2  0 Jul21 ?        00:00:03 [ksoftirqd/2]
+root        25     2  0 Jul21 ?        00:00:00 [kworker/2:0H]
+root        26     2  0 Jul21 ?        00:00:00 [cpuhp/3]
+root        27     2  0 Jul21 ?        00:00:06 [watchdog/3]
+root        28     2  0 Jul21 ?        00:00:01 [migration/3]
+root        29     2  0 Jul21 ?        00:00:01 [ksoftirqd/3]
+root        31     2  0 Jul21 ?        00:00:00 [kworker/3:0H]
+root        32     2  0 Jul21 ?        00:00:00 [kdevtmpfs]
+root        33     2  0 Jul21 ?        00:00:00 [netns]
+root        36     2  0 Jul21 ?        00:00:02 [khungtaskd]
+root        37     2  0 Jul21 ?        00:00:00 [oom_reaper]
+root        38     2  0 Jul21 ?        00:00:00 [writeback]
+root        39     2  0 Jul21 ?        00:00:00 [kcompactd0]
+root        40     2  0 Jul21 ?        00:00:00 [ksmd]
+root        41     2  0 Jul21 ?        00:08:49 [khugepaged]
+root        42     2  0 Jul21 ?        00:00:00 [crypto]
+root        43     2  0 Jul21 ?        00:00:00 [kintegrityd]
+root        44     2  0 Jul21 ?        00:00:00 [bioset]
+root        45     2  0 Jul21 ?        00:00:00 [kblockd]
+root        46     2  0 Jul21 ?        00:00:00 [devfreq_wq]
+root        47     2  0 Jul21 ?        00:00:00 [watchdogd]
+root        49     2  0 Jul21 ?        00:04:05 [kswapd0]
+root        50     2  0 Jul21 ?        00:00:00 [bioset]
+root        63     2  0 Jul21 ?        00:00:00 [kthrotld]
+root        64     2  0 Jul21 ?        00:00:00 [ipv6_addrconf]
+root       104     2  0 Jul21 ?        00:00:00 [ata_sff]
+root       143     2  0 Jul21 ?        00:00:00 [scsi_eh_0]
+root       144     2  0 Jul21 ?        00:00:00 [scsi_tmf_0]
+root       145     2  0 Jul21 ?        00:00:00 [scsi_eh_1]
+root       146     2  0 Jul21 ?        00:00:00 [scsi_tmf_1]
+root       147     2  0 Jul21 ?        00:00:00 [scsi_eh_2]
+root       148     2  0 Jul21 ?        00:00:00 [scsi_tmf_2]
+root       149     2  0 Jul21 ?        00:00:00 [scsi_eh_3]
+root       150     2  0 Jul21 ?        00:00:00 [scsi_tmf_3]
+root       151     2  0 Jul21 ?        00:00:00 [scsi_eh_4]
+root       152     2  0 Jul21 ?        00:00:00 [scsi_tmf_4]
+root       153     2  0 Jul21 ?        00:00:00 [scsi_eh_5]
+root       154     2  0 Jul21 ?        00:00:00 [scsi_tmf_5]
+root       162     2  0 Jul21 ?        00:00:00 [bioset]
+root       166     2  0 Jul21 ?        00:02:18 [kworker/0:1H]
+root       186     2  0 Jul21 ?        00:00:00 [kdmflush]
+root       188     2  0 Jul21 ?        00:00:00 [bioset]
+root       189     2  0 Jul21 ?        00:00:00 [kcryptd_io]
+root       190     2  0 Jul21 ?        00:00:00 [kcryptd]
+root       191     2  0 Jul21 ?        00:02:23 [dmcrypt_write]
+root       193     2  0 Jul21 ?        00:00:00 [bioset]
+root       199     2  0 Jul21 ?        00:00:00 [kdmflush]
+root       200     2  0 Jul21 ?        00:00:00 [bioset]
+root       204     2  0 Jul21 ?        00:00:00 [kdmflush]
+root       205     2  0 Jul21 ?        00:00:00 [bioset]
+root       208     2  0 Jul21 ?        00:00:00 [kdmflush]
+root       212     2  0 Jul21 ?        00:00:00 [bioset]
+root       223     2  0 Jul21 ?        00:00:02 [kworker/2:1H]
+root       238     2  0 Jul21 ?        00:00:17 [jbd2/dm-2-8]
+root       239     2  0 Jul21 ?        00:00:00 [ext4-rsv-conver]
+root       262     1  0 Jul21 ?        00:00:41 /usr/lib/systemd/systemd-journald
+root       270     2  0 Jul21 ?        00:00:00 [ktpacpid]
+root       273     2  0 Jul21 ?        00:00:03 [kworker/1:1H]
+root       274     2  0 Jul21 ?        00:00:00 [iprt-VBoxWQueue]
+root       276     2  0 Jul21 ?        00:00:02 [kworker/3:1H]
+root       277     1  0 Jul21 ?        00:00:04 /usr/lib/systemd/systemd-udevd
+root       278     2  0 Jul21 ?        00:00:01 [iprt-VBoxTscThr]
+root       331     2  0 Jul21 ?        00:00:00 [acpi_thermal_pm]
+root       480     2  0 Jul21 ?        00:00:00 [ext4-rsv-conver]
+root       505     2  0 Jul21 ?        00:00:00 [cfg80211]
+root       529     2  0 Jul21 ?        01:56:15 [irq/36-iwlwifi]
+root       568     2  0 Jul21 ?        00:00:00 [i915/signal:0]
+root       569     2  0 Jul21 ?        00:00:00 [i915/signal:1]
+root       576     2  0 Jul21 ?        00:00:00 [i915/signal:2]
+hubert     658 31866  0 Aug04 ?        00:00:06 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=289E0D52C0B48B885CD429EE8688F4B6 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+root       741     1  0 Jul21 ?        00:00:00 /usr/bin/lvmetad -f
+root      1105     2  0 Jul21 ?        00:00:41 [jbd2/dm-3-8]
+root      1106     2  0 Jul21 ?        00:00:00 [ext4-rsv-conver]
+root      1114     1  0 Jul21 ?        00:03:49 /usr/bin/thinkfan -n -s5 -q
+root      1115     1  0 Jul21 ?        00:00:06 /usr/bin/crond -n
+dbus      1116     1  0 Jul21 ?        00:15:11 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root      1119     1  0 Jul21 ?        00:27:54 /usr/bin/python2 -O /usr/share/wicd/daemon/wicd-daemon.py --no-daemon
+root      1121     1  0 Jul21 ?        00:01:00 /usr/bin/acpid --foreground --netlink
+root      1123     1  0 Jul21 ?        00:00:04 /usr/lib/systemd/systemd-logind
+root      1125     1  0 Jul21 ?        00:00:32 /usr/bin/syslog-ng -F
+root      1592     1  0 Jul21 ?        01:09:59 /usr/bin/dockerd -H fd://
+root      1595     1  0 Jul21 ?        00:00:00 /usr/bin/sshd -D
+root      1600     2  0 Jul21 ?        00:05:17 [kworker/u17:0]
+root      1610     1  0 Jul21 tty1     00:00:00 /sbin/agetty --noclear tty1 linux
+root      1611     1  0 Jul21 ?        00:00:00 /usr/bin/slim -nodaemon
+root      1660  1611  0 Jul21 tty7     04:42:03 /usr/lib/xorg-server/Xorg -nolisten tcp vt07 -auth /var/run/slim.auth
+root      1678     2  0 Jul21 ?        00:00:21 [kworker/u17:1]
+root      1715  1119  0 Jul21 ?        00:12:10 /usr/bin/python2 -O /usr/share/wicd/daemon/monitor.py
+hubert    2066     1  0 Jul21 ?        00:00:10 /usr/lib/systemd/systemd --user
+hubert    2067  2066  0 Jul21 ?        00:00:00 (sd-pam)
+hubert    2078  1611  0 Jul21 ?        00:02:49 i3
+hubert    2085  2066  0 Jul21 ?        00:00:07 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation
+hubert    2087     1  0 Jul21 ?        00:00:02 gnome-keyring-daemon
+hubert    2094     1  0 Jul21 ?        00:00:55 xfce4-clipman
+hubert    2102     1  0 Jul21 ?        00:01:00 orage
+hubert    2119     1  0 Jul21 ?        00:01:05 i3bar --bar_id=bar-0 --socket=/run/user/1000/i3/ipc-socket.2078
+hubert    2123  2119  0 Jul21 ?        00:05:15 i3status
+hubert    2128  2066  0 Jul21 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+hubert    2134  2128  0 Jul21 ?        00:00:28 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+hubert    2140  2066  0 Jul21 ?        00:00:00 /usr/lib/xfce4/xfconf/xfconfd
+hubert    2145  2066  0 Jul21 ?        00:01:44 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+hubert    2210  2066  0 Jul21 ?        00:00:06 /usr/lib/GConf/gconfd-2
+hubert    2414  2066  0 Jul21 ?        00:01:16 /usr/bin/gpg-agent --supervised
+hubert    3483     1  0 Aug03 ?        00:00:01 xterm
+hubert    3500  3483  0 Aug03 pts/10   00:00:02 zsh
+hubert    4605     1  0 Aug05 ?        00:00:29 evince /tmp/mozilla_hubert0/paper.pdf
+hubert    5333 11028  0 12:13 pts/22   00:03:29 node /home/hubert/.node_modules/bin/truffle-testrpc
+hubert    5704     1  0 Aug04 ?        00:00:00 /bin/zsh
+hubert    5717  5704  0 Aug04 ?        00:45:14 /usr/lib/thunderbird/thunderbird
+hubert    6344 31866  0 12:43 ?        00:00:40 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=81CA01159608F846CD9C203772B048B5 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert    6835 27197  0 Aug07 pts/6    00:00:19 vi main.tex
+root      9355     2  0 Aug09 ?        00:00:06 [kworker/3:0]
+hubert    9443     1  0 Aug07 ?        00:00:01 xterm
+hubert    9460  9443  0 Aug07 pts/4    00:00:00 zsh
+hubert    9561     1  0 Aug03 ?        00:00:00 xterm
+hubert    9578  9561  0 Aug03 pts/7    00:00:00 zsh
+hubert    9748 31866  0 14:26 ?        00:00:25 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=BD83BF238B871A07F2908BCCA3D20319 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert    9767 31866  0 14:26 ?        00:01:24 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=F6D7C3BABECDB0E552584085A2C9F235 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert   10088  9460  0 Aug07 pts/4    00:00:00 vi fig_reorderingattack.tex
+hubert   10409     1  0 Jul31 ?        00:00:00 xterm
+hubert   10426 10409  0 Jul31 pts/3    00:00:00 zsh
+hubert   10463 10426  0 Jul31 pts/3    00:00:00 vi false_positives.txt
+hubert   10630     1  0 Jul28 ?        00:00:01 xterm
+hubert   10637 10630  0 Jul28 pts/21   00:00:00 zsh
+hubert   11011     1  0 Jul28 ?        00:00:01 xterm
+hubert   11028 11011  0 Jul28 pts/22   00:00:00 zsh
+hubert   13195     1  0 Jul28 ?        00:00:00 xterm
+hubert   13212 13195  0 Jul28 pts/2    00:00:00 zsh
+hubert   13265 13212  0 Jul28 pts/2    00:00:00 vi imported/ethereum/Wallet.sol
+hubert   14464     1  0 Jul28 ?        00:00:01 xterm
+hubert   14481 14464  0 Jul28 pts/23   00:00:00 zsh
+root     14578     2  0 Aug08 ?        00:00:00 [irq/32-mei_me]
+root     14579     2  0 Aug08 ?        00:00:00 [irq/16-mmc0]
+hubert   14995  2066  0 Jul24 ?        00:00:00 /usr/lib/dconf/dconf-service
+root     15058     2  0 17:01 ?        00:00:00 [kworker/1:1]
+hubert   15879     1  0 Jul24 ?        00:00:12 xterm
+hubert   15896 15879  0 Jul24 pts/5    00:00:02 zsh
+root     16071     1  0 Aug08 ?        00:01:53 dhcpcd
+hubert   16132     1  0 Aug08 ?        00:00:40 xterm
+hubert   16139 16132  0 Aug08 pts/13   00:00:00 zsh
+hubert   16550     1  0 17:39 ?        00:00:01 xterm
+hubert   16568 16550  0 17:39 pts/0    00:00:02 zsh
+hubert   16875 14481  0 Jul28 pts/23   00:00:08 node /home/hubert/.node_modules/bin/truffle console
+hubert   17622 31866  0 Aug09 ?        00:00:17 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=053D905D833EC7568B19D51B18A3835D --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert   17832     1  0 Aug08 ?        00:00:00 xterm
+hubert   17849 17832  0 Aug08 pts/9    00:00:00 zsh
+hubert   17867 17849  0 Aug08 pts/9    00:00:00 vi fallback_and_more.sol
+hubert   18298     1  0 Aug08 ?        00:00:00 xterm
+hubert   18315 18298  0 Aug08 pts/16   00:00:00 zsh
+hubert   18345     1  0 Aug09 ?        00:00:04 xterm
+hubert   18362 18345  0 Aug09 pts/19   00:00:02 zsh
+hubert   18415 18315  0 Aug08 pts/16   00:00:47 evince CES_full-2003-2.pdf
+hubert   18906 10637  0 Jul28 pts/21   00:00:00 vi Reservation.sol
+root     19010  1592  0 Aug03 ?        00:17:34 docker-containerd -l unix:///var/run/docker/libcontainerd/docker-containerd.sock --metrics-interval=0 --start-timeout 2m --state-dir /var/run/docker/libcontainerd/containerd --shim docker-containerd-shim --runtime docker-runc
+hubert   19469 31866  0 Aug09 ?        00:00:26 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=E019B288BCD40AA097039098D1899850 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+root     19522     1  0 Jul22 ?        00:00:36 /usr/lib/upower/upowerd
+hubert   19927     1  0 Jul24 ?        00:00:01 xterm
+hubert   19945 19927  0 Jul24 pts/8    00:00:01 zsh
+hubert   19959     1  0 Aug09 ?        00:00:05 xterm
+hubert   19976 19959  0 Aug09 pts/1    00:00:03 zsh
+root     21015     2  0 21:09 ?        00:00:05 [kworker/u16:2]
+hubert   21085     1  0 21:10 ?        00:00:00 xterm
+hubert   21102 21085  0 21:10 pts/14   00:00:00 zsh
+hubert   21668 31866  0 21:28 ?        00:00:15 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=66CFEC1C291E00B21A6FD059C0C8CAFF --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+root     21852     2  0 21:31 ?        00:00:00 [kworker/2:0]
+hubert   21954     1  0 21:32 ?        00:00:00 xterm
+hubert   21971 21954  0 21:32 pts/11   00:00:00 zsh
+hubert   22135     1  0 Aug04 ?        00:01:44 evince main.pdf
+hubert   22139  2066  0 Aug04 ?        00:00:00 /usr/lib/evince/evinced
+root     22752     2  0 Aug04 ?        00:00:00 [bioset]
+hubert   23037 16139  3 22:05 pts/13   00:02:43 mplayer -noar -nojoystick -nolirc -fs -loop 0 /home/hubert/mukke/miles_children.mp3
+hubert   23500 31866  0 Aug04 ?        00:01:08 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=001F8195543E36AEC0F84D5FC220A82E --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert   24040     1  0 Aug07 ?        00:00:00 /bin/zsh
+hubert   24043 24040  8 Aug07 ?        07:01:53 /usr/lib/firefox/firefox
+hubert   24160     1  0 Aug07 ?        00:00:00 /bin/zsh
+hubert   24164 24160  0 Aug07 ?        00:00:00 /usr/lib/eclipse/eclipse
+hubert   24165 24164  3 Aug07 ?        02:31:10 /usr/bin/java -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication -Dosgi.requiredJavaVersion=1.8 -Xms256m -Xmx1024m -jar /usr/lib/eclipse//plugins/org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar -os linux -ws gtk -arch x86_64 -showsplash /usr/lib/eclipse//plugins/org.eclipse.epp.package.common_4.7.0.20170620-1800/splash.bmp -launcher /usr/lib/eclipse/eclipse -name Eclipse --launcher.library /usr/lib/eclipse//plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.500.v20170531-1133/eclipse_1624.so -startup /usr/lib/eclipse//plugins/org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar --launcher.appendVmargs -exitdata 11440014 -product org.eclipse.epp.package.java.product -vm /usr/bin/java -vmargs -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication -Dosgi.requiredJavaVersion=1.8 -Xms256m -Xmx1024m -jar /usr/lib/eclipse//plugins/org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar
+hubert   24219 19976  0 22:21 pts/1    00:00:00 vi README.md
+root     24564     2  0 22:33 ?        00:00:02 [kworker/0:0]
+hubert   24614 31866  4 22:35 ?        00:02:14 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=CB478A87C4D17F08CB28A14B889B0DB9 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+root     24902     2  0 22:43 ?        00:00:02 [kworker/u16:4]
+hubert   24910 31866  1 22:43 ?        00:00:38 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=039D355B2BEABA43E8F3BF515D291D93 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert   25149     1  0 Aug09 ?        00:00:00 /bin/zsh
+hubert   25152 25149  0 Aug09 ?        00:00:47 evince
+hubert   25168     1  0 Aug09 ?        00:00:10 xterm
+hubert   25185 25168  0 Aug09 pts/17   00:00:00 zsh
+hubert   25209     1  0 Aug07 ?        00:00:00 /usr/lib/webkit2gtk-4.0/WebKitNetworkProcess 150
+root     25340     2  0 22:52 ?        00:00:01 [kworker/u16:5]
+root     25643     2  0 22:57 ?        00:00:00 [kworker/0:2]
+root     25644     2  0 22:57 ?        00:00:00 [kworker/2:2]
+root     25783     2  0 23:00 ?        00:00:01 [kworker/u16:1]
+hubert   26069     1  0 23:04 ?        00:00:00 xterm
+hubert   26086 26069  0 23:04 pts/15   00:00:00 zsh
+hubert   26140     1  0 Aug07 ?        00:00:03 /usr/lib/webkit2gtk-4.0/WebKitWebProcess 160
+hubert   26276 31866 18 23:08 ?        00:03:05 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=FF9838BC3C7B81643EC2018E40955224 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+root     26323     2  0 23:09 ?        00:00:01 [kworker/u16:7]
+hubert   26351 31866  0 23:11 ?        00:00:05 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=FD05C72A42976CBC6B85103EFAE1B437 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+root     26389     2  0 23:12 ?        00:00:00 [kworker/1:2]
+root     26430     2  0 23:13 ?        00:00:00 [kworker/3:1]
+hubert   26621 16568  0 23:19 pts/0    00:00:00 vi cert_creation.sh
+hubert   26691     1  0 23:22 ?        00:00:00 xterm
+hubert   26708 26691  0 23:22 pts/18   00:00:00 zsh
+hubert   26795 21102  0 23:23 pts/14   00:00:00 man certutil
+hubert   26807 26795  0 23:23 pts/14   00:00:00 less
+hubert   26915 26708  0 23:25 pts/18   00:00:00 ps -ef
+hubert   27179     1  0 Aug04 ?        00:00:04 xterm
+hubert   27197 27179  0 Aug04 pts/6    00:00:00 zsh
+hubert   27775     1  0 Jul28 ?        00:00:39 xterm
+hubert   27792 27775  0 Jul28 pts/12   00:00:01 zsh
+root     27952     2  0 Jul28 ?        00:00:00 [bioset]
+hubert   28132 24043  0 Aug09 ?        00:00:41 /usr/bin/evince /tmp/mozilla_hubert0/p1197-dowling.pdf
+root     31079     2  0 Jul24 ?        00:00:00 [dio/dm-3]
+polkitd  31448     1  0 Jul25 ?        00:00:50 /usr/lib/polkit-1/polkitd --no-debug
+root     31476     1  0 Jul25 ?        00:01:17 /usr/bin/cupsd -l
+colord   31477     1  0 Jul25 ?        00:00:00 /usr/lib/colord/colord
+hubert   31643 31866  0 Aug04 ?        00:00:07 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=DC1172410C70C0F58E75E6D62CFFDEAD --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert   31858     1  0 Jul24 ?        00:00:00 /bin/zsh
+hubert   31861 31858  3 Jul24 ?        13:46:37 /usr/lib/opera/opera
+hubert   31863 31861  0 Jul24 ?        00:00:00 /usr/lib/opera/opera_sandbox /usr/lib/opera/opera --type=zygote
+hubert   31864 31863  0 Jul24 ?        00:00:00 /usr/lib/opera/opera --type=zygote
+hubert   31866 31864  0 Jul24 ?        00:00:00 /usr/lib/opera/opera --type=zygote
+hubert   31934 31861  0 Jul24 ?        02:22:40 /usr/lib/opera/opera --type=gpu-process --field-trial-handle=1 --supports-dual-gpus=false --gpu-driver-bug-workarounds=1,7,8,10,24,30,63,68,76 --disable-gl-extensions=GL_ARB_timer_query GL_EXT_timer_query GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent --disable-webrtc-hw-encoding --gpu-vendor-id=0x8086 --gpu-device-id=0x0126 --gpu-driver-vendor=Mesa --gpu-driver-version=17.1.4 --gpu-driver-date --service-request-channel-token=D475D44CA403ED1AC8789FEE92E3D5F7
+hubert   31937 31934  0 Jul24 ?        00:00:00 /usr/lib/opera/opera --type=gpu-broker
+hubert   31969 31866  0 Jul24 ?        00:00:05 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=F2861656839C6C74836DBB94F63A6E9C --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert   31980 31866  0 Jul24 ?        00:00:10 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=637D81672AEE9F862B863C3CD30E68D1 --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert   32021 31866  0 Jul24 ?        00:01:07 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=13C3244006EB0927FBB3DA60803441AF --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert   32081 31866  1 Jul24 ?        04:29:26 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=B912F73C8CF5743F2E6305E6A45CB54C --lang=en-US --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,
+hubert   32124 31866  1 Jul24 ?        06:13:22 /usr/lib/opera/opera --type=renderer --field-trial-handle=1 --primordial-pipe-token=01234742489C6A487EC763DD784F8EBE --lang=en-US --extension-process --disable-client-side-phishing-detection --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,
+Thu Aug 10 23:25:53 CEST 2017
+047155232

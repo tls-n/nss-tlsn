@@ -1,0 +1,4 @@
+repo: 9949429068caa6bb8827a8ceeaa7c605d722f47f
+node: 127d10a77798396fdb659231040bb4b57ec16dc5
+branch: NSS_3_30_BRANCH
+tag: NSS_3_30_1_RTM
