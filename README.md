@@ -24,7 +24,7 @@ Verifies a given proof.
 We have also provided multiple test applications, such as:
 * A standalone [verifier](nss/cmd/verifier) that verifies proofs.
 * A [client](nss/cmd/randtrafficClient) and [server](randtrafficServer) application to test TLS-N with a specified amount of random traffic.
-* A [bechmarking](nss/cmd/benchmark) app for TLS-N.
+* A [benchmarking](nss/cmd/benchmark) app for TLS-N.
 
 #### Test-CA
 For testing purposes we provide a Test CA with a test certiface for ```tls-n.testserver``` inside the [ca](ca) folder. The certificate store has an empty password. You have to resolve this hostname accordingly in DNS.
